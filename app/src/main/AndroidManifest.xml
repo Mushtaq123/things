@@ -8,6 +8,8 @@
       android:supportsRtl="true"
       android:theme="@style/AppTheme">
 
+    <uses-library android:name="com.google.android.things"/>
+
   </application>
 
 </manifest>
